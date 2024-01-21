@@ -11,4 +11,4 @@ foodlist = ["Maggi","chocolate","Hotdogs"]
 print(foodlist,type(foodlist))
 
 foodlist1 = ("Maggi","chocolate","Hotdogs")
-print(foodlist1,type(foodlist1))
+print(foodlist1,type(foodlist1 ))

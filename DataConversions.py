@@ -12,7 +12,7 @@ print(type(c))
 
 
 firstName = "Tiya"
-lastName = "Noodle "
+lastName = "Noodle  "
 # fullName = firstName +" " + lastName
 fullName = f"{firstName} {lastName}"
 print (fullName [2])

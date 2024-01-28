@@ -15,5 +15,11 @@ firstName = "Tiya"
 lastName = "Noodle  "
 # fullName = firstName +" " + lastName
 fullName = f"{firstName} {lastName}"
+print (fullName * 3)
+print (fullName[0:4])
 print (fullName [2])
+
+print ("y" in fullName)
+print ("z" in fullName)
+
 
